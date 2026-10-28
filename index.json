@@ -1,0 +1,11 @@
+{
+  "org": "napari",
+  "repo": "update-checker",
+  "versions": [
+    {
+      "commit": "8e406192a218a64915ae189e7441e2566c9414e6",
+      "tag": "",
+      "parsed_at": "2026-10-28T11:27:34.715935+00:00"
+    }
+  ]
+}
